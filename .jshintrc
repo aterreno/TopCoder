@@ -1,0 +1,30 @@
+{
+  "mocha": true,
+  "nonew": true,
+  "plusplus": true,
+  "strict": true,
+  "camelcase": true,
+  "latedef": true,
+  "newcap": true,
+  "unused": true,
+  "maxparams": 5,
+  "maxdepth": true,
+  "maxerr": 50,
+  "maxstatements": 10,
+  "maxcomplexity": 3,
+  "maxlen": 140,
+  "bitwise": true,
+  "curly": true,
+  "eqeqeq": true,
+  "forin": true,
+  "freeze": true,
+  "indent": 2,
+  "noarg": true,
+  "noempty": true,
+  "nonbsp": true,
+  "undef": true,
+  "node": true,
+  "globals": {
+    "Promise": true
+  }
+}
